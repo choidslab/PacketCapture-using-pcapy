@@ -1,1 +1,0 @@
-This program is an automatic packet collection program using python pcapy. 
